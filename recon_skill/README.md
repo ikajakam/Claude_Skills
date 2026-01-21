@@ -1,6 +1,6 @@
 # Recon Skill for Claude Code
 
-A comprehensive reconnaissance skill package for Claude Code agent using **subfinder** and **httpx** for subdomain enumeration and web asset discovery.
+Reconnaissance skill for Claude Code agent using **subfinder** and **httpx** for subdomain enumeration and web asset discovery.
 
 ### Installation
 

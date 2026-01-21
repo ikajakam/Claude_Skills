@@ -11,7 +11,7 @@ git clone https://github.com/ikajakam/Claude_Skills.git
 ```
 
 ```bash
-cp -r claude_skilla/recon_skill ~/.claude/skills/
+cp -r claude_skills/recon_skill ~/.claude/skills/
 ```
 
 ### Core Files
